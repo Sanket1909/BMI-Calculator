@@ -6,7 +6,7 @@
     </div>
     <div class="column " style="flex: 33.33%;
   padding: 5px;">
-       <img src="https://i.ibb.co/4JCtppj/screenshot2.png" alt="screenshot2"  style="width:35%;  align="right">
+       <img src="https://i.ibb.co/4JCtppj/screenshot2.png" alt="screenshot2"  style="width:35%;  align="right"/>
     </div>
     
 </div>
