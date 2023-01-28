@@ -1,5 +1,5 @@
 # BMI-Calculator
-<div class="row" align="center" >
+<div  align="center" >
     <div class="column >
         <img src="https://i.ibb.co/m4TmF7s/screenshot1.png" alt="screenshot1" style="width:30%; border-radius: 51px;  align="left"/>
     </div>
