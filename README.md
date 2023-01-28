@@ -33,7 +33,7 @@ Now, you can see the folder on your desktop.
 I Used BMI Chart ,I Add Logic In This App For Calculating BMI According The Chart  .
 
 ## BMI Chart That I used In this App.
-  <img src="https://github.com/Sanket1909/BMI-Calculator/blob/master/BMI%20Calculator/Assets.xcassets/bmi-chart-modified.png" width="35%" />
+  <img src="https://github.com/Sanket1909/BMI-Calculator/blob/master/BMI%20Calculator/Assets.xcassets/bmi-chart-modified.png" width="50%" />
 
 
 
