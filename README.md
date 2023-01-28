@@ -8,6 +8,6 @@
 Introduction: Learned from iOS & Swift - The Complete iOS App Development Bootcamp by Dr.Angela Yu
 
 
-Description: Users can press a button to generate two different cards and compare which the bigger number is. In default, the left hand side of the card is the player and the other side is the CPU. Each round, if the player gets the bigger card, the player's score will add 1 point, and vice versa. By the end of the game, if rounds >= 10 && playScore != cpuScore, it will show one alert window to know who the winner is.
+Description: Users can Use This BMI Calculator  To calculate Body Mass Index .Based on the user’s weight and height , BMI Calculator calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies.
 
  
