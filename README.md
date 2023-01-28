@@ -9,4 +9,4 @@
        <img src="https://i.ibb.co/4JCtppj/screenshot2.png" alt="screenshot2"  style="width:40%; border-radius: 50px;">
     </div>
     
-  </div>
+</div>
