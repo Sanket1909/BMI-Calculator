@@ -10,4 +10,13 @@ Introduction: Learned from iOS & Swift - The Complete iOS App Development Bootca
 
 Description: Users can Use This BMI Calculator  To calculate Body Mass Index .Based on the user’s weight and height , BMI Calculator calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies.
 
+## What I learned
+
+* Optional binding, optional chaining and the nil coalescing operator.
+* difference between classes and structs. 
+* Pass by value vs. pass by reference. 
+* Formatting Strings. 
+
+
+
  
