@@ -1,6 +1,6 @@
 # BMI-Calculator
-<div class="row" align="center" style="display: flex;">
-    <div class="column " style="  flex: 33.33%;
+<div class="row" align="center" style="display:flex;">
+    <div class="column " style="flex: 33.33%;
   padding: 5px;">
         <img src="https://i.ibb.co/m4TmF7s/screenshot1.png" alt="screenshot1" style="width:30%; border-radius: 51px;  align="left"/>
     </div>
@@ -10,3 +10,8 @@
     </div>
     
 </div>
+<p align="center">
+      <img src="https://i.ibb.co/m4TmF7s/screenshot1.png" alt="screenshot1" style="width:30%; border-radius: 51px; align="left">
+      <img src="...">
+      <img src="https://i.ibb.co/m4TmF7s/screenshot1.png" alt="screenshot1" style="width:30%; border-radius: 51px; align="right">
+</p>
