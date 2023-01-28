@@ -10,8 +10,4 @@
     </div>
     
 </div>
-<p align="center">
-      <img src="https://i.ibb.co/m4TmF7s/screenshot1.png" alt="screenshot1" align="left" width>
-      <img src="...">
-      <img src="https://i.ibb.co/m4TmF7s/screenshot1.png" alt="screenshot1" align="right">
-</p>
+
