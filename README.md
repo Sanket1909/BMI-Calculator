@@ -27,6 +27,7 @@ Ex. Desktop
 Open your terminal and type
 
 `cd Desktop`
+
 `https://github.com/Sanket1909/BMI-Calculator.git`
 Now, you can see the folder on your desktop.
 
