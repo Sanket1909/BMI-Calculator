@@ -39,5 +39,4 @@ I Used BMI Chart ,I Add Logic In This App For Calculating BMI According The Char
   
 
 
-
  
