@@ -37,6 +37,7 @@ I Used BMI Chart ,I Add Logic In This App For Calculating BMI According The Char
   <img src="https://github.com/Sanket1909/BMI-Calculator/blob/master/BMI%20Calculator/Assets.xcassets/bmi-chart-modified.png" width="50%" />
  
  
+ 
     
 
 
